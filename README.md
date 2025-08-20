@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://drive.google.com/file/d/1QDOjI4OAJ64aCse8fMNcBl-UhJCNN6JD/view?usp=sharing"/>
+  <img src="https://github.com/rdilipkumar931/rdilipkumar931/blob/main/DILIP%20KUMAR(70KB)-ph..._imresizer.jpg"/>
 </div>
 
 ###
@@ -43,8 +43,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
