@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is DILIP KUMAR ROY and I'm a Data Analyst </h2>
 
 ###
 
