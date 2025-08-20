@@ -15,8 +15,8 @@
 - 👯 I’m looking to collaborate on **Machine Learning Project**
 - 💬 Ask me about **SQL, Python, Excel**
 - 📫 How to reach me **diliproy561@gmail.com**
-<!-- - 🌐 Know about my experiences [www.mywebsite.com](https://tonmoy7722.github.io/Tonmoy-Portfolio/) -->
 - 📄 My resume [DILIP KUMAR ROY](https://drive.google.com/file/d/1H1kxwMAMJdYSVg8eKe0WSKYxwmZDR_h2/view?usp=sharing)
+  <!-- - 🌐 Know about my experiences [www.mywebsite.com](https://tonmoy7722.github.io/Tonmoy-Portfolio/) -->
 
 ###
 
