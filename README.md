@@ -3,14 +3,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rdilipkumar931&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rdilipkumar931&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github.com/rdilipkumar931/rdilipkumar931/blob/main/DILIP%20KUMAR(70KB)-ph..._imresizer.jpg"/>
 </div>
 
 ###
+- 🔭 I’m currently working on **Data Analysis and Software Quality Assurance **
+- 🌱 I’m currently learning **Data Analysis **
+- 👯 I’m looking to collaborate on **Machine Learning Project**
+- 💬 Ask me about **SQL, Python, Excel**
+- 📫 How to reach me **diliproy561@gmail.com**
+- 🌐 Know about my experiences [www.mywebsite.com](https://tonmoy7722.github.io/Tonmoy-Portfolio/)
+- 📄 My resume [DILIP KUMAR ROY](https://drive.google.com/file/d/1H1kxwMAMJdYSVg8eKe0WSKYxwmZDR_h2/view?usp=sharing)
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dodmkzZWZ3ZW9sdTBtY2JhMWN4NXJoMG5uazA1YTY1MDh3cDB0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
+###
+
+<img align="right" height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dodmkzZWZ3ZW9sdTBtY2JhMWN4NXJoMG5uazA1YTY1MDh3cDB0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"  />
 
 ###
 
